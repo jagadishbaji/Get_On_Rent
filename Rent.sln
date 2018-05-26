@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Rent", "F:\Projects2015\GetOnRent\Rent\", "{2424D6BF-E6EA-47D6-89AC-2D35BBF21842}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/Rent"
+		Debug.AspNetCompiler.PhysicalPath = "..\Rent\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Rent\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Rent"
+		Release.AspNetCompiler.PhysicalPath = "..\Rent\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Rent\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50250"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2424D6BF-E6EA-47D6-89AC-2D35BBF21842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2424D6BF-E6EA-47D6-89AC-2D35BBF21842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2424D6BF-E6EA-47D6-89AC-2D35BBF21842}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{2424D6BF-E6EA-47D6-89AC-2D35BBF21842}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
